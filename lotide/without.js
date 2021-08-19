@@ -5,7 +5,8 @@ const eqArrays=function(num1,num2){
         return false;
       }
     } return true;
-    }
+    }else 
+    return false;
 
 };
 const assertArraysEqual=function(arg1,arg2) {
